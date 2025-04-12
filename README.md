@@ -1,2 +1,2 @@
 # DescribiendoEjercicio
-Aqui se describiran los ejercicios
+Aqui empezo el nuevo proyecto y la rama principal
